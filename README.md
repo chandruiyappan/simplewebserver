@@ -327,7 +327,7 @@ Testing the webserver.
 </html>
 
 ## OUTPUT:
-C:\Users\Udaykumar\AppData\Local\Temp\d36c0747-8f6b-42bb-8be0-bc3c7ac1527e_Neon Themed Interactive Portfolio (Community).zip.27e\Dark.png
+C:\Users\Udaykumar\AppData\Local\Temp\d36c0747-8f6b-42bb-8be0-bc3c7ac1527e_Neon Themed Interactive Portfolio (Community).zip.27e\Dark.pn
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
